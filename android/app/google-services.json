@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962465896158",
+    "project_id": "votingpoll-99264",
+    "storage_bucket": "votingpoll-99264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962465896158:android:c8cb9aff6fe3eb1128944f",
+        "android_client_info": {
+          "package_name": "com.example.voting_poll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwWaDAkn4U7wNKtbGMSOfwOfm3F8Ufy0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
